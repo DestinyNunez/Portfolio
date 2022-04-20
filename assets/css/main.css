@@ -33,6 +33,7 @@ body {
 	line-height: 1;
 }
 
+
 ol, ul {
 	list-style: none;
 }
@@ -216,7 +217,14 @@ input, select, textarea {
 
 	h4 {
 		font-size: 0.8rem;
-	}
+		color: #ffffff;
+		font-weight: 600;
+		line-height: 1.5;
+		margin: 0 0 1rem 0;
+		margin-top: 75px;
+		text-transform: uppercase;
+		letter-spacing: 0.2rem;
+		}
 
 	h5 {
 		font-size: 0.7rem;
