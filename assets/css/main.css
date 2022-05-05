@@ -651,7 +651,6 @@ input, select, textarea {
 
 	.workImg {
 		width: 100%;
-		height: 350px;
 		border-radius: 7px;
 	}
 
@@ -713,7 +712,6 @@ input, select, textarea {
 
 			.image.main img {
 				width: 50%;
-				height: 400px;
 				margin: auto;
 			}
 
